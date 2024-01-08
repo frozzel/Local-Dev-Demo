@@ -1,0 +1,15 @@
+defaultPortal: demo
+portals:
+  - name: demo
+    portalId: 44867660
+    env: prod
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPvu59LOMRIRAA0AQAAA4G0DQAJYAgEAAPgYzMCyFSDil_kdKO7pDDIUnMatwTpSM6YGnmWlQ-u6NxYtKAI6OAAABEEAAAB4AAAAAAAAAAAAgAAAAAAABAAAwAcAjvAxPGBQBgBEAGBA_BgGABAgAwAAAAAAPP4DQhQ62zMuyrpTJ-E1Y3OynJLGpcNWMUoDbmExUgBaAA
+        expiresAt: '2024-01-08T18:33:33.846Z'
+    personalAccessKey: >-
+      CiRiMGYxN2Y3MC1kMWQzLTRlN2YtOWI0MC1kNWU2ODg1MTk2MGUQzMCyFRjil_kdKhkABeaRgt42Tyn9sUcih3JpMV5hRt7W5HY1SgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
